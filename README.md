@@ -1,8 +1,8 @@
 # React Native
 
-####Neact Native là gì?
+### Neact Native là gì?
 React Native là một framework do công ty công nghệ nổi tiếng Facebook phát triển nhằm mục đích giải quyết bài toán hiệu năng của Hybrid và bài toán chi phí khi mà phải viết nhiều loại ngôn ngữ native cho từng nền tảng di động
-####Cài đặt React Native
+### Cài đặt React Native
 
 **Bước 1**: Cài [NodeJS](https://nodejs.org/en/)
 **Bước 2**: Cài [Android Studio](https://developer.android.com/studio)
